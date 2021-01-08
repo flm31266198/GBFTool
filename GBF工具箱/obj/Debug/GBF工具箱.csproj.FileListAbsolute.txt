@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\bin\Debug\GBF工具箱.exe.config
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\bin\Debug\GBF工具箱.exe
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\bin\Debug\GBF工具箱.pdb
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.Form1.resources
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.Properties.Resources.resources
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.exe
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.pdb
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\bin\Debug\GBF工具箱.exe.manifest
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\bin\Debug\GBF工具箱.application
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.TrustInfo.xml
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.exe.manifest
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.application
+C:\Users\Admin\source\repos\GBF工具箱\GBF工具箱\obj\Debug\GBF工具箱.Form2.resources
